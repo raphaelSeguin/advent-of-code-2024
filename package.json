@@ -4,7 +4,13 @@
   "main": "index.js",
   "scripts": {
     "day1-part1": "tsx 01/part1.ts",
-    "day1-part2": "tsx 01/part2.ts"
+    "day1-part2": "tsx 01/part2.ts",
+    "day2-part1": "tsx 02/part1.ts",
+    "day2-part2": "tsx 02/part2.ts",
+    "day3-part1": "tsx 03/part1.ts",
+    "day3-part2": "tsx 03/part2.ts",
+    "day4-part1": "tsx 04/part1.ts",
+    "day4-part2": "tsx 04/part2.ts"
   },
   "keywords": [],
   "author": "",
