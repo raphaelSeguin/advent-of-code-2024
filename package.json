@@ -10,7 +10,9 @@
     "day3-part1": "tsx 03/part1.ts",
     "day3-part2": "tsx 03/part2.ts",
     "day4-part1": "tsx 04/part1.ts",
-    "day4-part2": "tsx 04/part2.ts"
+    "day4-part2": "tsx 04/part2.ts",
+    "day5-part1": "tsx 05/part1.ts",
+    "day5-part2": "tsx 05/part2.ts"
   },
   "keywords": [],
   "author": "",

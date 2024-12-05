@@ -70,7 +70,6 @@ function parseInput(str: string): ParsedInput {
   };
 }
 
-
 function takeDiagonals(str: string): string[] {
   const horizontals = takeHorizontals(str);
   const height = horizontals.length;
