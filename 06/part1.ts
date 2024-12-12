@@ -11,7 +11,7 @@ async function main() {
   const finalMap = iter(gallivantGuardMap);
   console.log(finalMap.positionHashes.size);
 }
-function parseInput(input: string): GallivantGuardMap {
+export function parseInput(input: string): GallivantGuardMap {
   const grid = input.split("\n").map((line) => line.split(""));
   const width = grid[0].length;
   const height = grid.length;
