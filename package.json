@@ -18,7 +18,11 @@
     "day6-part1-re": "tsx 06-re/part1.ts",
     "day6-part2-re": "tsx 06-re/part2.ts",
     "day7-part1": "tsx 07/part1.ts",
-    "day7-part2": "tsx 07/part2.ts"
+    "day7-part2": "tsx 07/part2.ts",
+    "day8-part1": "tsx 08/part1.ts",
+    "day8-part2": "tsx 08/part2.ts",
+    "day9-part1": "tsx 09/part1.ts",
+    "day9-part2": "tsx 09/part2.ts"
   },
   "keywords": [],
   "author": "",
